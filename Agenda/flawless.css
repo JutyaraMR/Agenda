@@ -1,0 +1,37 @@
+body{
+    background-color: #F5F5DC;
+    font-style:Condensed; 
+}
+
+input[type=text]{   
+    border-radius:4px;
+    background: #FFFFFF; 
+    border:1px solid #FFBBFF;
+    width:200px;
+}
+
+input[type=email]{   
+    border-radius:4px;
+    background: #FFFFFF; 
+    border:1px solid #FFBBFF;
+    width:150px;
+}
+
+#titulo{
+   font-family: 'Cherry Swash', cursive;
+   font-family: 'Nova Square', cursive;
+   color:#9A32CD;
+}
+
+#sub{
+    color: #DDA0DD;     
+}
+
+table{
+    color:#7D26CD;
+}
+
+#lol{
+   float: right;
+}
+ 
